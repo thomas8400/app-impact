@@ -445,7 +445,7 @@ document.querySelectorAll('#translate-dropdown .dropdown-content a').forEach(lin
       </div>
 
       <div class="footer-container">
-        <a href="Mentions-légales.html" id="legal-mentions-link" data-translate="legalMentions">Mentions légales</a>
+        <a href="mentions-légales.html" id="legal-mentions-link" data-translate="legalMentions">Mentions légales</a>
         <span id="footer-text">(Name)© 2025</span>
       </div>
     `;
