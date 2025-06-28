@@ -219,7 +219,7 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
 
         <div class="footer-container" style="margin-top: 30px; text-align: center;">
-          <a href="Mentions-légales.html" id="legal-mentions-link" data-translate="legalMentions">Mentions légales</a>
+          <a href="mentions-légales.html" id="legal-mentions-link" data-translate="legalMentions">Mentions légales</a>
           <div id="footer-text">(Name)© 2025</div>
         </div>
       </div>
